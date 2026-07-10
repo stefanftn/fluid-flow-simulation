@@ -1,0 +1,23 @@
+# Visual Studio build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.log
+*.tlog/
+*.recipe
+*.exe
+*.iobj
+*.ipdb
+
+# Visual Studio user/cache files
+*.vcxproj.user
+.vs/
+
+# OS
+Thumbs.db
+.DS_Store
