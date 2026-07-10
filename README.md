@@ -156,5 +156,5 @@ To build on a different machine, install OpenCV and an OpenCL SDK/ICD for your G
 
 ## Author
 
-Stefan Ilić (SV12/2023)
+Stefan Ilić
 - Project made as part of the Parallel programming course (4th semester, 2025).
